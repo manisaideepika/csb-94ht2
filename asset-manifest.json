@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0d5e2287.chunk.css",
-    "main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/main.8a58ca40.chunk.js",
-    "main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/main.8a58ca40.chunk.js.map",
+    "main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/main.b107d82f.chunk.js",
+    "main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/main.b107d82f.chunk.js.map",
     "runtime-main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.51de2b2b.js",
     "runtime-main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.51de2b2b.js.map",
-    "static/js/2.5dd7b9d5.chunk.js": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5dd7b9d5.chunk.js",
-    "static/js/2.5dd7b9d5.chunk.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5dd7b9d5.chunk.js.map",
+    "static/js/2.220e0e48.chunk.js": "https://manisaideepika.github.io/csb-94ht2/static/js/2.220e0e48.chunk.js",
+    "static/js/2.220e0e48.chunk.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/2.220e0e48.chunk.js.map",
     "index.html": "https://manisaideepika.github.io/csb-94ht2/index.html",
     "static/css/main.0d5e2287.chunk.css.map": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0d5e2287.chunk.css.map",
-    "static/js/2.5dd7b9d5.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5dd7b9d5.chunk.js.LICENSE.txt"
+    "static/js/2.220e0e48.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-94ht2/static/js/2.220e0e48.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.51de2b2b.js",
-    "static/js/2.5dd7b9d5.chunk.js",
+    "static/js/2.220e0e48.chunk.js",
     "static/css/main.0d5e2287.chunk.css",
-    "static/js/main.8a58ca40.chunk.js"
+    "static/js/main.b107d82f.chunk.js"
   ]
 }
