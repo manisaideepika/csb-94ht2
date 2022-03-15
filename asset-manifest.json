@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0d5e2287.chunk.css",
-    "main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/main.ec99b706.chunk.js",
-    "main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/main.ec99b706.chunk.js.map",
-    "runtime-main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.51de2b2b.js",
-    "runtime-main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.51de2b2b.js.map",
-    "static/js/2.0d0903a0.chunk.js": "https://manisaideepika.github.io/csb-94ht2/static/js/2.0d0903a0.chunk.js",
-    "static/js/2.0d0903a0.chunk.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/2.0d0903a0.chunk.js.map",
+    "main.css": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0adcec58.chunk.css",
+    "main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/main.82f5fbe6.chunk.js",
+    "main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/main.82f5fbe6.chunk.js.map",
+    "runtime-main.js": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.af64f2f5.js",
+    "runtime-main.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/runtime-main.af64f2f5.js.map",
+    "static/js/2.5c2b0fe4.chunk.js": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5c2b0fe4.chunk.js",
+    "static/js/2.5c2b0fe4.chunk.js.map": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5c2b0fe4.chunk.js.map",
     "index.html": "https://manisaideepika.github.io/csb-94ht2/index.html",
-    "static/css/main.0d5e2287.chunk.css.map": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0d5e2287.chunk.css.map",
-    "static/js/2.0d0903a0.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-94ht2/static/js/2.0d0903a0.chunk.js.LICENSE.txt"
+    "static/css/main.0adcec58.chunk.css.map": "https://manisaideepika.github.io/csb-94ht2/static/css/main.0adcec58.chunk.css.map",
+    "static/js/2.5c2b0fe4.chunk.js.LICENSE.txt": "https://manisaideepika.github.io/csb-94ht2/static/js/2.5c2b0fe4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.51de2b2b.js",
-    "static/js/2.0d0903a0.chunk.js",
-    "static/css/main.0d5e2287.chunk.css",
-    "static/js/main.ec99b706.chunk.js"
+    "static/js/runtime-main.af64f2f5.js",
+    "static/js/2.5c2b0fe4.chunk.js",
+    "static/css/main.0adcec58.chunk.css",
+    "static/js/main.82f5fbe6.chunk.js"
   ]
 }
